@@ -1,1 +1,21 @@
 # socialMediaBakcend
+# dependencies
+node_modules/
+
+# build
+dist/
+
+# env files
+.env
+
+# logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS
+.DS_Store
+
+# editor
+.vscode/
+.idea/
